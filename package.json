@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "tsx ./index.ts",
+    "build": "tsc --build",
     "test": "test"
   },
   "author": "mohanteja",
